@@ -7,4 +7,3 @@ shapely
 rasterio
 pyproj
 seaborn
-os
