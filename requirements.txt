@@ -4,11 +4,9 @@ pandas
 geopandas
 fiona
 shapely
-cv2
 rasterio
 rasterio.plot
 pyproj
 seaborn
 make_lupton_rgb
 os
-
